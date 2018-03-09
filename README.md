@@ -2,7 +2,7 @@
 ## 「WLOラズパイ倶楽部　Grid-EYEで人感センシング！」
 
 ## Peatix イベント申し込みページ
-(ここにURLが入ります）
+https://180314raspi.peatix.com
 
 ## 詳細
 WLOラズパイ倶楽部は、RaspberryPiやArduinoなどを使った 趣味の電子工作に興味ある有志の集まりです。 
