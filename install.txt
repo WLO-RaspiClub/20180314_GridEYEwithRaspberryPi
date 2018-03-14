@@ -1,0 +1,1 @@
+sudo apt install i2c-tools python-smbus libopencv-dev python-opencv
